@@ -1,0 +1,67 @@
+{
+  "imageSrc": "/images/img_1793881046177.jpg",
+  "audioSrc": "/audio/tts_1793881000235.mp3",
+  "bgmSrc": null,
+  "bgmVolume": 0.15,
+  "filterStyle": "cinematic",
+  "transitionType": "zoomIn",
+  "subtitleStyle": "hormozi",
+  "subtitlePosition": "center",
+  "subtitleFontSize": "md",
+  "words": [
+    {
+      "word": "Dobratoly",
+      "start": 0,
+      "end": 0.76,
+      "probability": 0.28
+    },
+    {
+      "word": "u",
+      "start": 0.76,
+      "end": 0.92,
+      "probability": 0.53
+    },
+    {
+      "word": "Alexander",
+      "start": 0.92,
+      "end": 1.26,
+      "probability": 0.46
+    },
+    {
+      "word": "Studios.",
+      "start": 1.26,
+      "end": 2.04,
+      "probability": 0.61
+    },
+    {
+      "word": "Ovd",
+      "start": 2.88,
+      "end": 3.3,
+      "probability": 0.29
+    },
+    {
+      "word": "krirama",
+      "start": 3.3,
+      "end": 3.76,
+      "probability": 0.29
+    },
+    {
+      "word": "videa",
+      "start": 3.76,
+      "end": 4.22,
+      "probability": 0.61
+    },
+    {
+      "word": "Sidraž",
+      "start": 4.22,
+      "end": 4.72,
+      "probability": 0.25
+    },
+    {
+      "word": "Zemri.",
+      "start": 4.72,
+      "end": 5.04,
+      "probability": 0.46
+    }
+  ]
+}
